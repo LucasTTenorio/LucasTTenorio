@@ -1,6 +1,6 @@
 <?php
 // Include the database configuration file
-require_once 'dbConfig.php';
+//require_once 'dbConfig.php';
 
 $editorContent = $statusMsg = '';
 
